@@ -1,3 +1,4 @@
+#转自大神笔记，中文为本人记录
 # Examples of using deep learning in Bioinformatics
 
 ### This work has been officially published, but we will keep updating this repository to keep up with the most advanced researches. If you have any suggestions, feel free to open an issue. You are also very welcomed to contribute.
